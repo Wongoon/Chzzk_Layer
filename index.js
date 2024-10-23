@@ -53,4 +53,4 @@ setInterval(function () {
 
     // 다음 슬라이드를 페이드인
     fadeIn(slides[currentIndex]);
-}, 7000); // 슬라이드 전환 주기
+}, 10000); // 슬라이드 전환 주기

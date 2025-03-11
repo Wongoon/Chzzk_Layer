@@ -8,4 +8,4 @@
 ## Glowing Clock
 [링크](https://wongoon.github.io/Chzzk_Layer/Glowing_Clock)
 현재 시간을 나타낼 페이지
-참고: 쿠레나이 나츠키
+> 참고: 쿠레나이 나츠키

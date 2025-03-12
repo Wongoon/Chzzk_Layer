@@ -7,5 +7,6 @@
 
 ## Glowing Clock
 [링크](https://wongoon.github.io/Chzzk_Layer/Glowing_Clock)
-현재 시간을 나타낼 페이지
+현재 시간을 나타낼 페이지  
+너비 1500 x 높이 450으로 설정하면 딱 맞습니다
 > 참고: 쿠레나이 나츠키
